@@ -1,1 +1,8 @@
 https://github.com/mohammedabbas15/TestMe1.git
+Steps to upload to github:
+1. go into the folder in the command prompt
+2. $ git init (creates a new repository for this directory)
+3. $ git add . (adds all the files to the repository)
+4. $ git commit -m "label" (commits the changes to git)
+5. $ git remote add origin https://github.com/ (push the changes to your git repository hosted on github)
+6. $ git push -u origin master (upload you commited files to github)
